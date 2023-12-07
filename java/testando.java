@@ -10,6 +10,7 @@ public class testando {
     String vida;
 
 
+    String paixão;
 
 
     
