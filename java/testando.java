@@ -9,7 +9,8 @@ public class testando {
 
     String vida;
 
-
+String casas;
+String ferreita;
 
 
     
