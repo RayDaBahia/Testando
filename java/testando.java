@@ -7,7 +7,7 @@ public class testando {
     String idde;
 
 
-
+    String vida;
 
 
 
