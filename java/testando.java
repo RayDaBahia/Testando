@@ -11,7 +11,7 @@ public class testando {
 
 String casas;
 String ferreita;
-String meira;
+
 
     
 }
